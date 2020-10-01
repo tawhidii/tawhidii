@@ -14,7 +14,7 @@ About me:
 
 - 🔭 I’m currently working on BelaseaBD as a software developer
 - 🌱 I’m currently learning Django and Django REST
-- 👯 I’m looking to collaborate on JavaScript and NOdeJS
+- 👯 I’m looking to collaborate on JavaScript and NodeJs
 - 🤔 I’m looking for help with GraphQL
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
