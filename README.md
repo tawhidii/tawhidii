@@ -20,9 +20,7 @@ About me:
 - 📫 How to reach me: Email, Facebook
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tawhidii&show_icons=true" alt="tawhidii"/>
-</a>
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=radical" alt="tawhidii"/>
 </a>
