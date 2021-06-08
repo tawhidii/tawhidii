@@ -13,9 +13,8 @@ Python, C/C++, JavaScript
 About me:
 
 - 🔭 I’m currently working as a software developer and available for hiring.
-- 🌱 I’m currently learning Django and Django REST
-- 👯 I’m looking to collaborate on JavaScript and NodeJs
-- 🤔 I’m looking for help with GraphQL
+- 👯 I’m learning JavaScript and NodeJs
+- 🤔 I’m looking for help with Mongo
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
