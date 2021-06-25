@@ -1,5 +1,5 @@
 # Khondoker Khademul Bari 👋
-
+![](https://komarev.com/ghpvc/?username=tawhidii&color=brightgreen)
 
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/barii.py)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:barii.py@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
@@ -18,11 +18,9 @@ About me:
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
-Computer Science Jokes <br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=radical" alt="tawhidii"/>
 </a>
 
-
+### Computer Science Jokes <br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
