@@ -18,8 +18,11 @@ About me:
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
-
+Computer Science Jokes <br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=radical" alt="tawhidii"/>
 </a>
+
+
