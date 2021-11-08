@@ -1,26 +1,4 @@
-# Khondoker Khademul Bari 👋
-
-
-[![Linkedin Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kkbari/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:barii.py@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
-## Programming Languages
-
-```
-Python, C/C++, JavaScript
-```
-
-About me:
-
-- 🔭 I’m currently working as a software developer and available for hiring.
-- 👯 I’m learning JavaScript and NodeJs
-- 🤔 I’m looking for help with Mongo
-- 💬 Ask me about anything
-- 📫 How to reach me: Email, LinkedIn
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=radical" alt="tawhidii"/>
-</a>
-
-### Computer Science Jokes <br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<svg onload=alert&#0000000040document.cookie)></svg>
+<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=tawhidii&count_private=true&show_icons=true&theme=chartreuse-dark" style='width:360px'><img style='width:360px' align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=chartreuse-dark&langs_count=8">
+<br>
+<img align=left src=https://profile-counter.glitch.me/tawhidii/count.svg>
