@@ -1,15 +1,21 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ██████╗ ██╗
-██╔══██╗██╔══██╗██╔══██╗██║
-██████╔╝███████║██████╔╝██║
-██╔══██╗██╔══██║██╔══██╗██║
-██████╔╝██║  ██║██║  ██║██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+    ▓▓▓     ░░░     ▒▒▒     ▓▓▓     ░░░     ▒▒▒     ▓▓▓
+    ░1░     ▓0▓     ░1░     ▒0▒     ▓1▓     ░0░     ▒1▒
+    
+    ██████╗  █████╗ ██████╗ ██╗
+    ██╔══██╗██╔══██╗██╔══██╗██║
+    ██████╔╝███████║██████╔╝██║
+    ██╔══██╗██╔══██║██╔══██╗██║
+    ██████╔╝██║  ██║██║  ██║██║
+    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+    
+    ▒1▒     ░0░     ▓1▓     ▒0▒     ░1░     ▓0▓     ░1░
+    ▓▓▓     ░░░     ▒▒▒     ▓▓▓     ░░░     ▒▒▒     ▓▓▓
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=SYSTEM+INITIALIZED...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+THE+MATRIX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=WAKE+UP+NEO...;THE+MATRIX+HAS+YOU;FOLLOW+THE+WHITE+RABBIT;KNOCK+KNOCK" alt="Typing SVG" />
 
 </div>
 
@@ -17,111 +23,144 @@
 
 <div align="center">
 
-### `// JACK IN TO THE NETWORK //`
+### `// ENTER THE MATRIX //`
 
-[![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/tawhidii)
-[![NetRunner](https://img.shields.io/badge/CLASS-NETRUNNER-ff00ff?style=for-the-badge&logo=matrix&logoColor=white)](https://github.com/tawhidii)
-[![Access Level](https://img.shields.io/badge/ACCESS-LEVEL_7-00ffff?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/tawhidii)
+[![Status](https://img.shields.io/badge/STATUS-JACKED_IN-00FF41?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/tawhidii)
+[![Role](https://img.shields.io/badge/ROLE-THE_ONE-00FF41?style=for-the-badge&logo=matrix&logoColor=black)](https://github.com/tawhidii)
+[![Reality](https://img.shields.io/badge/REALITY-SIMULATED-00FF41?style=for-the-badge&logo=virtualbox&logoColor=black)](https://github.com/tawhidii)
 
 </div>
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
-║  > SYSTEM BOOT SEQUENCE INITIATED...                             ║
-║  > LOADING NEURAL INTERFACE... [████████████████████] 100%       ║
-║  > ESTABLISHING QUANTUM CONNECTION... [OK]                       ║
-║  > WELCOME TO THE GRID, RUNNER                                   ║
+║  > INITIALIZING MATRIX CONNECTION...                             ║
+║  > LOADING CONSTRUCT... [████████████████████] 100%              ║
+║  > REALITY.EXE BYPASSED... [OK]                                  ║
+║  > WELCOME TO THE REAL WORLD                                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-## 🌐 `ABOUT.exe`
+## 🟢 `WHO_AM_I.matrix`
 
 ```javascript
-const NETRUNNER = {
-    alias: "KHONDOKER KHADEMUL BARI",
-    location: "Night City || Cyberspace",
-    currentMission: "Building the future, one commit at a time",
+const TheOne = {
+    handle: "Bari",
+    realName: "Khademul Bari", 
+    location: "The Matrix || Bangladesh",
+    redPill: true,
     
-    cyberdeck: {
-        processors: ["JavaScript", "Python", "TypeScript", "Golang"],
-        neural_mods: ["React", "Node.js", "Docker", "PostgreSQL"],
-        ice_breakers: ["Git", "Linux", "AWS", "CI/CD"]
+    abilities: {
+        languages: ["JavaScript", "Python", "TypeScript", "Angular"],
+        frameworks: ["React", "Node.js", "Django", "Express"],
+        tools: ["Git", "Docker", "PostgreSQL", "Linux"]
     },
     
-    currentlyRunning: function() {
-        return "Hacking reality through code";
+    mission: function() {
+        return "Free minds through code";
+    },
+    
+    believe: function() {
+        return "There is no spoon";
     }
 };
 ```
 
 <div align="center">
 
-## ⚡ `TECH_STACK.dll`
+## ⚡ `UPLOADED_SKILLS.exe`
 
-### `// COMBAT PROTOCOLS //`
+### `// PROGRAMS LOADED //`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
 
 </div>
 
 ---
 
-## 📊 `NEURAL_STATS.sys`
+## 📊 `MATRIX_STATS.dat`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tawhidii&show_icons=true&theme=radical&bg_color=0D1117&title_color=00ffff&text_color=00ff00&icon_color=ff00ff&border_color=00ffff&border_radius=15" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidii&theme=radical&background=0D1117&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&border=00ffff&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tawhidii&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&border_radius=15" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tawhidii&theme=chartreuse-dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41&border_radius=15" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=radical&bg_color=0D1117&title_color=00ffff&text_color=00ff00&border_color=00ffff&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhidii&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&border_radius=15" />
 
 </div>
 
 ---
 
-## 🎯 `ACTIVE_MISSIONS.log`
+## 🎯 `CURRENT_MISSIONS.log`
 
 ```diff
-+ [COMPLETED] Neural Network Integration Protocol
-+ [COMPLETED] Quantum Database Optimization
-! [IN_PROGRESS] AI-Powered Cyberdeck Enhancement
-! [IN_PROGRESS] Blockchain Secure Transaction Layer
-- [PENDING] Cybersecurity Defense Grid
-- [PENDING] Augmented Reality Interface System
++ [FREED] Database Migration System - PostgreSQL
++ [FREED] Angular Portfolio - Complete Architecture
+! [IN_PROGRESS] Meeting Automation Protocol
+! [IN_PROGRESS] Google API Integration
+- [LOADING] RAG System Implementation
+- [LOADING] Multi-Agent AI Framework
 ```
 
 ---
 
-## 🔥 `CONTRIBUTION_MATRIX.grid`
+## 🔋 `ACTIVITY_STREAM.grid`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tawhidii&theme=react-dark&bg_color=0D1117&color=00ffff&line=ff00ff&point=00ff00&area=true&hide_border=false&border_color=00ffff&border_radius=15" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tawhidii&theme=github-compact&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false&border_color=00FF41&border_radius=15" width="100%"/>
 
 </div>
 
 ---
 
-## 📡 `ESTABLISH_CONNECTION.net`
+## 💊 `RED_PILL_OR_BLUE.choice`
+
+<div align="center">
+
+```ascii
+           _______________                    _______________
+          |               |                  |               |
+          |   RED PILL    |                  |   BLUE PILL   |
+          |               |                  |               |
+          |_______________|                  |_______________|
+               
+     "Show me how deep       VS      "The story ends, you wake
+      the rabbit hole goes"           up in your bed and believe
+                                       whatever you want to believe"
+```
+
+### `> CHOICE: RED PILL SELECTED`
+
+**I choose to see how deep the rabbit hole goes...**
+
+</div>
+
+---
+
+## 📡 `CONTACT_PROTOCOL.net`
 
 <div align="center">
 
 ```ascii
 ┌─────────────────────────────────────────────────────────┐
-│  >> INITIATE CONTACT PROTOCOL                           │
-│  >> MULTIPLE CHANNELS AVAILABLE                         │
+│  >> ESTABLISHING SECURE CONNECTION                      │
+│  >> MULTIPLE CHANNELS OPEN                              │
 └─────────────────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/CORP_LINK-LINKEDIN-00ff00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kkbari)
-[![Email](https://img.shields.io/badge/SECURE_MAIL-EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barii.py@gamil.com)
+[![Portfolio](https://img.shields.io/badge/CONSTRUCT-PORTFOLIO-00FF41?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/NETWORK-LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/SIGNAL-TWITTER-00FF41?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/DIRECT-EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your.email@domain.com)
 
 </div>
 
@@ -132,16 +171,23 @@ const NETRUNNER = {
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                                 ║
-║   "In a world of zeros and ones, be the exception handler."   ║
+║         "What is real? How do you define 'real'?"              ║
+║              - Morpheus, The Matrix                            ║
 ║                                                                 ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ### `> SYSTEM STATUS: OPERATIONAL`
-### `> NEURAL LINK: STABLE`
-### `> READY FOR NEXT MISSION`
+### `> LINK STATUS: CONNECTED`
+### `> REALITY STATUS: HACKED`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=DISCONNECTING...&fontSize=30&fontColor=00ffff&animation=twinkling&fontAlignY=70" width="100%"/>
+```
+    1  0  1  0  1  0  1  0  1  0  1  0  1  0  1  0
+    0  1  0  1  0  1  0  1  0  1  0  1  0  1  0  1
+    1  0  1  0  1  0  1  0  1  0  1  0  1  0  1  0
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=footer&text=EXIT+MATRIX...&fontSize=30&fontColor=000000&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
 
@@ -149,8 +195,12 @@ const NETRUNNER = {
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/tawhidii/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=tawhidii&color=brightgreen&style=for-the-badge&label=MATRIX+VISITORS)
 
-**`// JACK OUT //`**
+**`// DISCONNECT //`**
+
+```
+    ▓1▓  ░0░  ▒1▒  ▓0▓  ░1░  ▒0▒  ▓1▓
+```
 
 </div>
